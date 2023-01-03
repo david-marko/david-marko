@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [David&#39;s Journey - Dev Retro 2022](https://0xdvvid.hashnode.dev/davids-journey-dev-retro-2022)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
