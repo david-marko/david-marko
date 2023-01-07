@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **markodave46@gmail.com**
 
+<a href="https://app.daily.dev/0xdvvid"><img src="https://api.daily.dev/devcards/5106d51a6e5e4e698ad738332760db61.png?r=m03" width="400" alt="Dave Marko's Dev Card"/></a>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [David&#39;s Journey - Dev Retro 2022](https://0xdvvid.hashnode.dev/davids-journey-dev-retro-2022)
