@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Analysis and Visualisation - Mapping the Kenyan Startup Ecosystem of 2022 using Python](https://0xdvvid.hashnode.dev/data-analysis-and-visualisation-mapping-the-kenyan-startup-ecosystem-of-2022-using-python)
 - [David&#39;s Journey - Dev Retro 2022](https://0xdvvid.hashnode.dev/davids-journey-dev-retro-2022)
 <!-- BLOG-POST-LIST:END -->
 
