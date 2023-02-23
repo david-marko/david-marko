@@ -24,6 +24,8 @@
 - [My Painful Journey into Python Asyncio: A quick look at some mistakes and bugs](https://0xdvvid.hashnode.dev/my-painful-journey-into-python-asyncio-a-quick-look-at-some-mistakes-and-bugs)
 - [Data Analysis and Visualisation - Mapping the Kenyan Startup Ecosystem of 2022 using Python](https://0xdvvid.hashnode.dev/data-analysis-and-visualisation-mapping-the-kenyan-startup-ecosystem-of-2022-using-python)
 - [David&#39;s Journey - Dev Retro 2022](https://0xdvvid.hashnode.dev/davids-journey-dev-retro-2022)
+- [Introduction to Git](https://0xdvvid.hashnode.dev/introduction-to-git)
+- [Flask and MySQL: Basic CRUD applications](https://0xdvvid.hashnode.dev/flask-and-mysql-basic-crud-applications)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
