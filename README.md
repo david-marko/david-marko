@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://0xdvvid.hashnode.dev/](https://0xdvvid.hashnode.dev/)
 
-- 💬 Ask me about **Python, Angular**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **markodave46@gmail.com**
 
